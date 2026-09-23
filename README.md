@@ -1,7 +1,7 @@
 # Influenza-Surveillance-Thesis
-I am completing my Master's degree in Bioinformatics and my thesis covers the expansion of our influenza genomic surveillance. I am simulating the deployment of 100, 250, and 500 rapid sequencing sites to see the impact on infection peak prediction and to watch the evolution of novel subclades across the US. 
+I am completing my Master's degree in Bioinformatics and my thesis covers the expansion of our influenza genomic surveillance. I am simulating the deployment of 100, 250, and 500 rapid sequencing sites to see the impact on infection peak prediction and to watch the evolution of novel subclades across the US. You will see my progress chronologically as I work through this project. 
 
-You will see my progress chronologically as I work through this project. The first file will be code for compiling 2024 population data by county FIPS codes from US census data. In this first file, I also combined this data with the geographic center of each county using Gazetteer files. 
+The first file will be code for compiling 2024 population data by county FIPS codes from US census data. In this first file, I also combined this data with the geographic center of each county using Gazetteer files. 
 
 File 2 is how I set the baseline surveillance scenario in the United States. 
 I decided to use 57 established sites in the US. These site designations have been recognized in the Influenza Virologic Surveillance Right Size Roadmap 2nd Ed. published by the APHL. This roadmap included multiple levels of sequencing sites: 
