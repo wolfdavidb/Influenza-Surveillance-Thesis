@@ -3,7 +3,7 @@ I am completing my Master's degree in Bioinformatics and my thesis covers the ex
 
 The first file will be code for compiling 2024 population data by county FIPS codes from US census data. In this first file, I also combined this data with the geographic center of each county using Gazetteer files. 
 
-File 2 is how I set the baseline surveillance scenario in the United States. 
+File 2 (incomplete) is how I set the baseline surveillance scenario in the United States. 
 I decided to use 57 established sites in the US. These site designations have been recognized in the Influenza Virologic Surveillance Right Size Roadmap 2nd Ed. published by the APHL. This roadmap included multiple levels of sequencing sites: 
   1) CDC NCIRD (CDC Headquarters in DeKalb County GA) 
   2) CDC NIRCs (3 - Wadsworth Center in Albany NY, Wisconsin State Laboratory of Hygiene in Madison WI, and Cali. Dept. of Public Health VRDL in Richmond, CA)
