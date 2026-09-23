@@ -5,7 +5,7 @@ The first file will be code for compiling 2024 population data by county FIPS co
 
 File 2 is how I set the baseline surveillance scenario in the United States. 
 I decided to use 57 established sites in the US. These site designations have been recognized in the Influenza Virologic Surveillance Right Size Roadmap 2nd Ed. published by the APHL. This roadmap included multiple levels of sequencing sites: 
-  1) CDC NCIRD (CDC Headquarters in DeKalb County GA 
+  1) CDC NCIRD (CDC Headquarters in DeKalb County GA) 
   2) CDC NIRCs (3 - Wadsworth Center in Albany NY, Wisconsin State Laboratory of Hygiene in Madison WI, and Cali. Dept. of Public Health VRDL in Richmond, CA)
   3) ISCs (6 - CDPHE Lab in Denver CO, Florida Bureau of Public Health Labs in Jacksonville FL, Mass. State Public Health Lab in Jamaica Plain MA, MDHHS Bureau of Labs in Lansing MI, MDH Public Health Lab in St. Paul MN, and Texas DSHS Lab in Austin TX)
   4) Directly Funded Municipal Public Health Laboratories (5 - NYC DOHMH in New York County NY, Chicago Dept. of Public Health in Cook County IL, Houston Health Dept. Lab in Harris County TX, Philadelphia Dept. of Public Health in Philadelphia County PA, and Los Angeles County PHL in Los Angeles County CA)
