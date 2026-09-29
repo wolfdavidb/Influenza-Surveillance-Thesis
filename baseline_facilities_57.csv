@@ -1,0 +1,58 @@
+facility_id,name,city,state,fips,tier,county_name,latitude,longitude,pop_2024
+FED_CDC,CDC NCIRD Influenza Division,Atlanta,GA,13089,Federal_HQ,DeKalb County,33.770661,-84.226343,770307
+NIRC_CA,California Dept of Public Health VRDL,Richmond,CA,06013,NIRC_StatePHL,Contra Costa County,37.919479,-121.951543,1172607
+NIRC_NY,Wadsworth Center (NYSDOH),Albany,NY,36001,NIRC_StatePHL,Albany County,42.58824,-73.97401,319964
+NIRC_WI,Wisconsin State Laboratory of Hygiene,Madison,WI,55025,NIRC_StatePHL,Dane County,43.067468,-89.417852,588347
+ISC_CO,Colorado Dept of Public Health & Env Lab,Denver,CO,08031,ISC_StatePHL,Denver County,39.76185,-104.881105,729019
+ISC_FL,Florida Bureau of Public Health Laboratories,Jacksonville,FL,12031,ISC_StatePHL,Duval County,30.335245,-81.648113,1055159
+ISC_MA,Massachusetts State Public Health Laboratory,Jamaica Plain,MA,25025,ISC_StatePHL,Suffolk County,42.338551,-71.018253,793144
+ISC_MI,Michigan Dept of Health & Human Services Lab,Lansing,MI,26065,ISC_StatePHL,Ingham County,42.603534,-84.373811,290427
+ISC_MN,Minnesota Dept of Health Public Health Lab,St. Paul,MN,27123,ISC_StatePHL,Ramsey County,45.015204,-93.099965,542015
+ISC_TX,Texas Dept of State Health Services Lab,Austin,TX,48453,ISC_StatePHL,Travis County,30.239513,-97.69127,1363767
+PHL_AL,Alabama Bureau of Clinical Laboratories,Montgomery,AL,01101,State_PHL,Montgomery County,32.202881,-86.204461,225894
+PHL_AK,Alaska State Public Health Laboratories,Anchorage,AK,02020,State_PHL,Anchorage Municipality,61.17425,-149.284329,289600
+PHL_AZ,Arizona State Public Health Laboratory,Phoenix,AZ,04013,State_PHL,Maricopa County,33.345176,-112.49893,4673096
+PHL_AR,Arkansas Department of Health Lab,Little Rock,AR,05119,State_PHL,Pulaski County,34.770311,-92.312996,401209
+PHL_CT,Connecticut Dept of Public Health Lab,Rocky Hill,CT,09110,State_PHL,Capitol Planning Region,41.81697,-72.575886,991508
+PHL_DE,Delaware Public Health Laboratory,Smyrna,DE,10001,State_PHL,Kent County,39.097088,-75.502982,192690
+PHL_DC,DC Public Health Laboratory (DFS),Washington,DC,11001,State_PHL,District of Columbia,38.904247,-77.016517,702250
+PHL_GA,Georgia State Public Health Laboratory,Decatur,GA,13089,State_PHL,DeKalb County,33.770661,-84.226343,770307
+PHL_HI,Hawaii State Laboratories Division,Pearl City,HI,15003,State_PHL,Honolulu County,21.461365,-158.201974,998747
+PHL_ID,Idaho Bureau of Laboratories,Boise,ID,16001,State_PHL,Ada County,43.451476,-116.244376,535799
+PHL_IL,Illinois Dept of Public Health Lab,Springfield,IL,17167,State_PHL,Sangamon County,39.756886,-89.662435,194345
+PHL_IN,Indiana Department of Health Laboratories,Indianapolis,IN,18097,State_PHL,Marion County,39.782976,-86.135794,981628
+PHL_IA,State Hygienic Laboratory at Univ of Iowa,Coralville,IA,19103,State_PHL,Johnson County,41.670668,-91.590529,160080
+PHL_KS,Kansas Health and Environmental Laboratories,Topeka,KS,20177,State_PHL,Shawnee County,39.041805,-95.755664,177942
+PHL_KY,Kentucky Division of Laboratory Services,Frankfort,KY,21073,State_PHL,Franklin County,38.234919,-84.868786,52442
+PHL_LA,Louisiana Office of Public Health Laboratory,Baton Rouge,LA,22033,State_PHL,East Baton Rouge Parish,30.54393,-91.093131,453022
+PHL_ME,Maine Health & Environmental Testing Lab,Augusta,ME,23011,State_PHL,Kennebec County,44.417012,-69.765764,128461
+PHL_MD,Maryland Laboratories Administration,Baltimore,MD,24510,State_PHL,Baltimore city,39.300032,-76.610476,568271
+PHL_MS,Mississippi Public Health Laboratory,Jackson,MS,28049,State_PHL,Hinds County,32.267788,-90.466017,211975
+PHL_MO,Missouri State Public Health Laboratory,Jefferson City,MO,29051,State_PHL,Cole County,38.503233,-92.280027,77625
+PHL_MT,Montana Public Health Laboratory,Helena,MT,30049,State_PHL,Lewis and Clark County,47.122105,-112.38289,75129
+PHL_NE,Nebraska Public Health Laboratory (UNMC),Omaha,NE,31055,State_PHL,Douglas County,41.297091,-96.154066,601158
+PHL_NV,Nevada State Public Health Laboratory,Reno,NV,32031,State_PHL,Washoe County,40.73132,-119.663269,507280
+PHL_NH,New Hampshire Public Health Laboratories,Concord,NH,33013,State_PHL,Merrimack County,43.299579,-71.680041,157869
+PHL_NJ,New Jersey Public Health & Env Laboratories,Trenton,NJ,34021,State_PHL,Mercer County,40.282503,-74.703724,392138
+PHL_NM,New Mexico Scientific Laboratory Division,Albuquerque,NM,35001,State_PHL,Bernalillo County,35.053628,-106.66908,671747
+PHL_NC,North Carolina State Lab of Public Health,Raleigh,NC,37183,State_PHL,Wake County,35.789846,-78.650624,1232444
+PHL_ND,North Dakota Public Health Laboratory,Bismarck,ND,38015,State_PHL,Burleigh County,46.978829,-100.469533,103107
+PHL_OH,Ohio Department of Health Laboratory,Reynoldsburg,OH,39049,State_PHL,Franklin County,39.969875,-83.009086,1356303
+PHL_OK,Oklahoma Public Health Laboratory,Oklahoma City,OK,40109,State_PHL,Oklahoma County,35.554611,-97.409401,816490
+PHL_OR,Oregon State Public Health Laboratory,Hillsboro,OR,41067,State_PHL,Washington County,45.553542,-123.097615,611272
+PHL_PA,Pennsylvania Bureau of Laboratories,Exton,PA,42029,State_PHL,Chester County,39.974029,-75.749751,560745
+PHL_RI,Rhode Island State Health Laboratories,Providence,RI,44007,State_PHL,Providence County,41.869768,-71.578625,675912
+PHL_SC,South Carolina Public Health Laboratory,Columbia,SC,45079,State_PHL,Richland County,34.029095,-80.898037,430651
+PHL_SD,South Dakota Public Health Laboratory,Pierre,SD,46065,State_PHL,Hughes County,44.384452,-99.975684,17526
+PHL_TN,Tennessee State Public Health Laboratory,Nashville,TN,47037,State_PHL,Davidson County,36.169129,-86.78479,729505
+PHL_UT,Utah Unified State Laboratories: Public Health,Taylorsville,UT,49035,State_PHL,Salt Lake County,40.667883,-111.92424,1216274
+PHL_VT,Vermont Department of Health Laboratory,Colchester,VT,50007,State_PHL,Chittenden County,44.463329,-73.06941,170851
+PHL_VA,Virginia Division of Consolidated Lab Services,Richmond,VA,51760,State_PHL,Richmond city,37.531399,-77.476009,233655
+PHL_WA,Washington State Public Health Laboratories,Shoreline,WA,53033,State_PHL,King County,47.490552,-121.833977,2340211
+PHL_WV,West Virginia Office of Laboratory Services,South Charleston,WV,54039,State_PHL,Kanawha County,38.328068,-81.523516,173906
+PHL_WY,Wyoming Public Health Laboratory,Cheyenne,WY,56021,State_PHL,Laramie County,41.29283,-104.660395,101783
+MUN_CHI,Chicago Public Health Laboratory,Chicago,IL,17031,ELC_Direct_City,Cook County,41.894294,-87.645455,5182617
+MUN_HOU,Houston Health Department Laboratory,Houston,TX,48201,ELC_Direct_City,Harris County,29.857273,-95.393037,5009302
+MUN_LAC,Los Angeles County Public Health Lab,Santa Fe Springs,CA,06037,ELC_Direct_City,Los Angeles County,34.196398,-118.261862,9757179
+MUN_NYC,NYC Public Health Laboratory,New York,NY,36061,ELC_Direct_City,New York County,40.776642,-73.970187,1660664
+MUN_PHL,Philadelphia Public Health Laboratory,Philadelphia,PA,42101,ELC_Direct_City,Philadelphia County,40.009376,-75.133346,1573916
